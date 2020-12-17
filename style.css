@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+body{
+	background-color:#92DFE4;
+	font-family: 'Langar', cursive;
+}
+.main{
+	width:50%;
+}
+section{
+	border:#009BA0 2px solid;
+	border-radius:6px;
+	padding:8px;
+}
